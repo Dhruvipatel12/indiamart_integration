@@ -185,3 +185,7 @@ app_license = "MIT"
 # auth_hooks = [
 #	"indiamart_integration.auth.validate"
 # ]
+fixtures = [
+
+    {"dt": "Indiamart Setting", }
+]
